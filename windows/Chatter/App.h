@@ -6,7 +6,7 @@
 
 namespace activation = winrt::Windows::ApplicationModel::Activation;
 
-namespace winrt::Chatter::implementation
+namespace winrt::chatter::implementation
 {
     struct App : AppT<App>
     {
@@ -18,4 +18,4 @@ namespace winrt::Chatter::implementation
       private:
         using super = AppT<App>;
     };
-} // namespace winrt::Chatter::implementation
+} // namespace winrt::chatter::implementation

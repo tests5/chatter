@@ -1,6 +1,6 @@
 #include "NamespaceRedirect.h"
 
-namespace Chatter
+namespace chatter
 {
     [default_interface]
     runtimeclass MainPage : XAML_NAMESPACE.Controls.Page

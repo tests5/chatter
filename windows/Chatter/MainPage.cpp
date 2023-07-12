@@ -9,7 +9,7 @@
 using namespace winrt;
 using namespace xaml;
 
-namespace winrt::Chatter::implementation
+namespace winrt::chatter::implementation
 {
     MainPage::MainPage()
     {
